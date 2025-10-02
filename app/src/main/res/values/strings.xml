@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSDMH252_LGSLP1E2</string>
+    <string name="p1titulo">Ingreso de Datos</string>
+    <string name="p1lsolnombre">Ingresa su Nombre</string>
+    <string name="hsolnombre">Aqui tu Nombre</string>
+    <string name="blsaludar"> Saludar </string>
+    <string name="p1titutlo2">Suma de dos numeros </string>
+    <string name="lnum1">Ingresa el Primer Numero</string>
+    <string name="lnum2">Ingresa el Segundo Numero </string>
+    <string name="hnum1">Aqui el Primer numero </string>
+    <string name="hnum2">Aqui el Segundo numero </string>
+    <string name="blsumar">Suma Numeros</string>
+
+</resources>
